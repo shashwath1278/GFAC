@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 1, "column": 0}, "map": {"version":3,"sources":["file:///C:/Users/vinay/Downloads/goal-for-a-cause%20%281%29/components/light-rays.css"],"sourcesContent":[".light-rays-container {\r\n    width: 100%;\r\n    height: 100%;\r\n    position: relative;\r\n    pointer-events: none;\r\n    z-index: 3;\r\n    overflow: hidden;\r\n}"],"names":[],"mappings":"AAAA"}},
+    {"offset": {"line": 11, "column": 0}, "map": {"version":3,"sources":["file:///C:/Users/vinay/Downloads/goal-for-a-cause%20%281%29/components/text-type.css"],"sourcesContent":[".text-type {\r\n  display: inline-block;\r\n  white-space: pre-wrap;\r\n}\r\n\r\n.text-type__cursor {\r\n  margin-left: 0rem;\r\n  display: inline-block;\r\n  opacity: 1;\r\n}\r\n\r\n.text-type__cursor--hidden {\r\n  display: none;\r\n}\r\n"],"names":[],"mappings":"AAAA;;;;;AAKA;;;;;;AAMA"}}]
+}

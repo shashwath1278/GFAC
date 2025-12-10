@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 1, "column": 0}, "map": {"version":3,"sources":["turbopack:///[project]/components/light-rays.css"],"sourcesContent":[".light-rays-container {\r\n    width: 100%;\r\n    height: 100%;\r\n    position: relative;\r\n    pointer-events: none;\r\n    z-index: 3;\r\n    overflow: hidden;\r\n}"],"names":[],"mappings":"AAAA"}}]
+}

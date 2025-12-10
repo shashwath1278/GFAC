@@ -1,0 +1,17 @@
+/* [project]/components/text-type.css [app-client] (css) */
+.text-type {
+  white-space: pre-wrap;
+  display: inline-block;
+}
+
+.text-type__cursor {
+  opacity: 1;
+  margin-left: 0;
+  display: inline-block;
+}
+
+.text-type__cursor--hidden {
+  display: none;
+}
+
+/*# sourceMappingURL=components_text-type_a5765f0e.css.map*/
